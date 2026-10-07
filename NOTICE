@@ -1,0 +1,14 @@
+Jambo Devs PR review
+====================
+
+This product is based on the open-source PR-Agent project:
+
+  Upstream: https://github.com/The-PR-Agent/pr-agent
+  License:  MIT (see LICENSE)
+  Snapshot: commit 821c6ad173194d443a3f768b5a1087924025e90f (main zipball)
+
+Copyright (c) 2026 The PR Agent and contributors.
+Additional branding, documentation, and productization work for
+"Jambo Devs PR review" (repo slug: jambo-pr-review) © Jambo Devs / contributors.
+
+The MIT license terms in LICENSE apply to the upstream code included here.
